@@ -1,8 +1,8 @@
-## Abstract ##
-
-In today's fast-paced world, managing shared expenses among friends, family, or colleagues can be a cumbersome and error-prone task. 
-The Expense Sharing app is designed to simplify and streamline the process of tracking and splitting expenses, making financial management a breeze for users. 
-This abstract provides an overview of the key features and benefits of the Expense Sharing app.
-The Expense Sharing app offers a user-friendly interface accessible on both mobile and web platforms. 
-Users can effortlessly create groups and invite members to join, allowing for easy collaboration on shared expenses. 
-Within each group, users can record expenses incurred by individuals and upload receipts for added transparency.
+ABSTRACT  
+ 
+In our fast-paced world, efficient personal finance management is challenging. We introduce an innovative expense-sharing app powered by voice recognition and GPS tracking, revolutionizing expense monitoring in defined geographic regions. This app transforms how individuals manage expenses within specific locations.
+The core functionality of our app is twofold. First, it utilizes cutting-edge voice recognition capabilities to allow users to effortlessly input expenses by simply speaking them. This hands-free approach enhances user convenience, reduces manual entry errors, and expedites expense tracking.
+Second, our app employs GPS technology to track users' geographical locations in real-time. It automatically calculates their expenses within predefined areas. If a user's expenses exceed a present limit within a particular zone, the app triggers an alert, notifying the user of the limit breach. This feature acts as a safeguard against overspending and encourages responsible financial behaviour.
+Conversely, if the user's expenses fall below the allocated limit, the app suggests budget allocations for unmet needs, ensuring financial goals. 
+Our app amalgamates cutting-edge technology with personal finance management, empowering users to effortlessly track and control their expenses while reinforcing responsible spending habits. By integrating voice recognition and GPS tracking, we aim to simplify expense management, enhance awareness, and promote financial well-being for users across the globe.
+Keywords: cost-sharing, shared wallet, bill splitting, shared finances, IOU tracking
